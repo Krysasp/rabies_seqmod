@@ -1,6 +1,8 @@
 # rabies_seqmod
 pipeline and computational modeling of coding fragments in rabies viruses
 
+Source: Southern Sarawak/Borneo
+
 metadata:
 Seq-RUN-ID  Sample-ID  sample_type  species  locality  year
 159B69   RVD955   saliva   Kuching   dog  2023
